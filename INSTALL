@@ -1,0 +1,9 @@
+Building Velox
+
+See doc/readme-qt.rst for instructions on building Velox QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Velox.
+
+See doc/build-*.txt for instructions on building veloxd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Velox.
