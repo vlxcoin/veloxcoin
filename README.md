@@ -1,3 +1,5 @@
+**This respiratory is outdated as of our POW/POS to ERC-20 Coin Swap, completed on September 25 2018**
+
 # VeloxCoin
 Velox is a proof of work/proof of stake currency that has been created as a share structured currency for the
 upcoming VeloxBolt decentralized & anonymous exchange and trading platform. Velox will be mined, transacted,
